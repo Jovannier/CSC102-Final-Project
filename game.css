@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(87, 87, 236);
+    color:blanchedalmond;
+    background-attachment: fixed;
+}
+
+nav{
+    height: 6000;
+    width: 200px;
+    float: right;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+header{
+    text-align: center;
+}
